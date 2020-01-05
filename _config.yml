@@ -19,10 +19,10 @@ locale                   : "ko-KR"
 title                    : "Jang BeomJun"
 title_separator          : "-"
 name                     : "장범준"
-description              : "테스트중입니다"
+description              : "코드로 세상을 바꿀 고등학교 1학년입니다"
 url                      : https://tjtdkr.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : /new_test # the subpath of your site, e.g. "/blog"
-repository               : tjtdkr/new_test # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+baseurl                  : /blog # the subpath of your site, e.g. "/blog"
+repository               : tjtdkr/tjtdkr.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -102,8 +102,8 @@ analytics:
 author:
   name             : "장범준"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "테스트중입니다"
-  location         : "Somewhere"
+  bio              : "코드로 세상을 바꿀 고등학생입니다"
+  location         : "KR, GMP"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
@@ -291,7 +291,7 @@ defaults:
 safe: False
 lsi: False
 username: tjtdkr #Github username
-repo: new_test #Github repo
+repo: tjtdkr.github.io #Github repo
 branch: master
 relative_source: ../test/
 destination: ../test-posts
