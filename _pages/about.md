@@ -1,12 +1,20 @@
 ---
 permalink: /about/
 title: "About"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
-last_modified_at: 2018-07-01T12:04:24-04:00
+excerpt: "I Am"
+last_modified_at: 2020-01-06T01:23:24+09:00
 toc: true
 ---
 
-## hello my page!
+컴퓨터공학과 진학을 목표로 하는 고등학교 1학년입니다.
+파이썬을 주로 공부하고 있으며 리눅스, 아두이노, 보안 등에 관심이 있습니다.
+본 블로그에는 앞으로 제 개발기 (파이썬, 아두이노, 마인크래프트 서버 등)나 잡담 등이 올라올 예정입니다
+
+감사합니다!
+
+Hello World!
+
+**혹시 개편 이전 테마가 궁금하신 분들은 tjtdkr.me/old 에서 보실 수 있습니다**
 
 ---
 
