@@ -104,7 +104,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "코드로 세상을 바꿀 고등학생입니다"
   location         : "KR, GMP"
-  email            :
+  email            : "tjtdkr@naver.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -113,7 +113,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "https://github.com/tjtdkr"
   gitlab           :
   google_plus      :
   keybase          :
@@ -296,5 +296,5 @@ repo: tjtdkr.github.io #Github repo
 branch: master
 relative_source: ../test/
 destination: ../test-posts
-production_url:  https://tjtdkr.github.io/new_test/ # or Your Custom URL
-source_url:  https://tjtdkr.github.io/new_test/ # Github repo URL
+production_url:  https://tjtdkr.github.io/ # or Your Custom URL
+source_url:  https://tjtdkr.github.io/ # Github repo URL
