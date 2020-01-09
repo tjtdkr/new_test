@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Jang BeomJun"
+title                    : "Jang blog"
 title_separator          : "-"
 name                     : "장범준"
 description              : "코드로 세상을 바꿀 고등학교 1학년입니다"
