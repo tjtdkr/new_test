@@ -3,7 +3,9 @@ main:
   - title: "About" # 네비게이션 바에 표시 되는 이름
     url: "/about/" # 클릭시 이동할 URL
   - title: "Category"
-    url: /categories/
+    url: "/categories/"
+  - title: "KKuTu"
+    url: "http://k.tjtdkr.me"
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
