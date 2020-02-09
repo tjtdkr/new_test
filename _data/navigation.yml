@@ -6,6 +6,8 @@ main:
     url: "/categories/"
   - title: "KKuTu"
     url: "http://k.tjtdkr.me"
+  - title: "old"
+    url: "https://tjtdkr.me/old"
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
