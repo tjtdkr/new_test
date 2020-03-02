@@ -45,6 +45,12 @@ layout: default
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
+      
+      <ins class="kakao_ad_area" style="display:none;" 
+      data-ad-unit    = "DAN-r1a3072traya" 
+      data-ad-width   = "320" 
+      data-ad-height  = "100"></ins> 
+     <script type="text/javascript" src="//t1.daumcdn.net/kas/static/ba.min.js" async></script>
 
       <footer class="page__meta">
         {% if site.data.ui-text[site.locale].meta_label %}
