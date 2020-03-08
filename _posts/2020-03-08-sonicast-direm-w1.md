@@ -1,7 +1,7 @@
 ---
 title: "소니캐스트 direm W1 언박싱"
 categories: 
-  - review, blogging
+  - review blogging
 last_modified_at: 2020-03-08T13:47:47+09:00
 toc: true
 ---
